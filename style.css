@@ -1,0 +1,111 @@
+body{
+    width: 1440px;
+    height: 550px;
+    color:  hsl(0, 0%, 95%);
+}
+.full-box{
+    width: 900px;
+    height: 470px;
+    margin-top: 120px;
+    margin-left: 315px;
+    border-radius: 10px;
+}
+.sedan{
+    background-color:  hsl(31, 77%, 52%);
+    width: 300px;
+    height: 470px;
+    position: relative;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.car-icon{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    margin-top: 35px;
+    margin-left: 40px;
+}
+.car-title{
+    width: 90px;
+    height: 35px;
+    font-family: 'Big Shoulders Display', cursive;
+    color:  hsl(0, 0%, 95%);
+    font-size: 35px;
+    margin-top: 120px;
+    margin-left: 40px;
+    position: absolute;
+    font-weight: bold;
+    letter-spacing: 1px
+}
+.sedan-text{
+    font-family: 'Lexend Deca', sans-serif;
+    position: absolute;
+    margin-top: 195px;
+    width: 200px;
+    height: 125px;
+    line-height: 25px;
+    margin-left: 40px;
+    font-size: 15px;
+    text-align: left;
+    color: rgb(211, 205, 205);
+}
+.button{
+    background-color: hsl(0, 0%, 95%);
+    width: 115px;
+    height: 35px;
+    border-radius: 50px;
+    position: absolute;
+    margin-top: 390px;
+    margin-left: 40px;
+}
+.button-text{
+    color: hsl(31, 77%, 52%);
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 14px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.suv{
+    width: 300px;
+    height: 470px;
+    margin-left: 300px;
+    background-color: hsl(184, 100%, 22%);
+    margin-top: -470px;
+    position: relative;
+}
+.lexury-suv-text{
+    font-family: 'Lexend Deca', sans-serif;
+    position: absolute;
+    margin-top: 195px;
+    width: 210px;
+    height: 125px;
+    line-height: 25px;
+    margin-left: 40px;
+    font-size: 15px;
+    text-align: left;
+    color: rgb(211, 205, 205);
+}
+.button-text-2{
+    color: hsl(184, 100%, 22%);
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 14px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.luxury{
+    width: 300px;
+    height: 470px;
+    margin-left: 600px;
+    background-color: hsl(179, 100%, 13%);
+    margin-top: -470px;
+    position: relative;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.button-text-3{
+    color: hsl(179, 100%, 13%);
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 14px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
